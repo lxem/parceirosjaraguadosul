@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <clipPath id="clip-CDTC-favicon-128x128">
+      <rect width="128" height="128"/>
+    </clipPath>
+  </defs>
+  <g id="CDTC-favicon-128x128" clip-path="url(#clip-CDTC-favicon-128x128)">
+    <g id="CDT-favicon-128x128">
+      <circle id="Elipse_219" data-name="Elipse 219" cx="64" cy="64" r="64"/>
+      <g id="Grupo_3360" data-name="Grupo 3360" transform="translate(16.141 28)">
+        <path id="Caminho_5617" data-name="Caminho 5617" d="M-1541.4,374.7c4.807,1.619,7.189,7.254,5.32,12.587s-7.28,8.344-12.087,6.726-7.189-7.254-5.32-12.587S-1546.205,373.081-1541.4,374.7Z" transform="translate(1572.669 -365.286)" fill="#fff" fill-rule="evenodd"/>
+        <path id="Caminho_5618" data-name="Caminho 5618" d="M-1595.46,424.645a47.027,47.027,0,0,0,1.245,10.747c2.793,11.812,10.38,22.287,23.682,22.287,7.437,0,17.992-5.8,23.2-8.73,2.976-1.674,3.9-2.88,10.627-.079,15.06,6.272,36.612,18.037,36.938-10.036.163-14.013-9.373-28.331-20.206-28.331-9.116,0-16.768,6.831-27.605,13.114-11.31,6.557-22.1,13.019-30.99,13.019C-1591.05,436.636-1595.46,428.953-1595.46,424.645Z" transform="translate(1595.46 -385.267)" fill="#fff" fill-rule="evenodd"/>
+        <g id="Grupo_3358" data-name="Grupo 3358" transform="translate(0 28.023)">
+          <path id="Caminho_5619" data-name="Caminho 5619" d="M-1578.564,440.06c6.593,0,14.233-3.556,22.354-8.068-11.164-6.3-19.638-15.279-28.477-15.279-6.577,0-10.772,5.708-10.772,11.356h0C-1595.46,432.377-1591.05,440.06-1578.564,440.06Z" transform="translate(1595.46 -416.713)" fill="#fff"/>
+        </g>
+        <path id="Caminho_5620" data-name="Caminho 5620" d="M-1470.821,354.256c6.251-.009,11.588,5.522,11.92,12.356s-4.467,12.38-10.719,12.389-11.588-5.522-11.92-12.355S-1477.072,354.265-1470.821,354.256Z" transform="translate(1532.661 -354.256)" fill="#fff" fill-rule="evenodd"/>
+        <g id="Grupo_3359" data-name="Grupo 3359" transform="translate(48.131 53.256)">
+          <path id="Caminho_5621" data-name="Caminho 5621" d="M-1477.558,483.3c12.208,5.084,28.679,13.774,34.655,1.934,1.4-2.828.978-12.282-13.031-12.282-14.1,0-27.9,7.858-32.252,10.427C-1485.21,481.705-1484.286,480.5-1477.558,483.3Z" transform="translate(1488.186 -472.952)" fill="#fff" style="mix-blend-mode: multiply;isolation: isolate"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
